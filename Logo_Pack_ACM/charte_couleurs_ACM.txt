@@ -1,0 +1,55 @@
+=======================================================
+CHARTE COULEURS OFFICIELLE — ACM-GROUPE
+=======================================================
+
+COULEURS PRINCIPALES
+--------------------
+Marine (primaire)    : #1A2B4A   RGB(26, 43, 74)
+Orange (accent)      : #E8730A   RGB(232, 115, 10)
+
+COULEURS SECONDAIRES
+--------------------
+Vert performance     : #2D7A4F   RGB(45, 122, 79)
+Gris clair           : #F4F4F4   RGB(244, 244, 244)
+Blanc                : #FFFFFF   RGB(255, 255, 255)
+
+=======================================================
+GUIDE D'USAGE
+=======================================================
+
+#1A2B4A  Titres H1/H2, en-tetes de slides, fond slides
+          couverture, texte principal sur fond clair
+          
+#E8730A  Accents, CTA, encadres securite/alerte,
+          sous-titres, separateurs, mots cles
+          
+#2D7A4F  Validations, objectifs atteints, points
+          positifs, indicateurs de reussite
+
+#F4F4F4  Fonds de sections, alternance lignes tableaux,
+          encadres neutres
+
+=======================================================
+FICHIERS DU PACK
+=======================================================
+
+logo_acm_couleur_horizontal.svg  — Logo principal (fond blanc)
+logo_acm_blanc_horizontal.svg    — Logo inverse (fonds sombres)
+logo_acm_vertical.svg            — Version empilee centree
+logo_acm_icone_couleur.svg       — Icone seule (carabiner)
+logo_acm_icone_blanc.svg         — Icone blanche (fonds sombres)
+charte_couleurs_ACM.txt          — Ce fichier
+
+=======================================================
+POLICES RECOMMANDEES
+=======================================================
+
+Titres/Logo : Arial Black (gras 900) ou Impact
+Corps texte : Arial Regular (400) ou Calibri
+Electronique: Montserrat Black + Montserrat Regular
+              (Google Fonts, gratuit)
+
+=======================================================
+ACM-Groupe — Travaux sur cordes & Prevention des risques
+Clichy, Ile-de-France
+=======================================================

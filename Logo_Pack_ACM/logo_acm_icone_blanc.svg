@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 116" width="90" height="116">
+  <title>ACM-Groupe — Icone carabiner blanc</title>
+  <desc>Icone seule ACM-Groupe, version blanche pour fonds sombres</desc>
+  <defs>
+    <mask id="ring">
+      <ellipse cx="45" cy="58" rx="41" ry="53" fill="white"/>
+      <ellipse cx="45" cy="58" rx="27" ry="36" fill="black"/>
+      <rect x="0" y="44" width="32" height="28" fill="black"/>
+    </mask>
+  </defs>
+  <line x1="45" y1="0" x2="45" y2="116" stroke="#E8730A" stroke-width="6" stroke-linecap="round"/>
+  <rect x="0" y="0" width="90" height="116" mask="url(#ring)" fill="#FFFFFF"/>
+  <rect x="3" y="46" width="7" height="24" rx="3.5" fill="#E8730A"/>
+  <path d="M4,46 C0,53 0,69 4,73" fill="none" stroke="#E8730A" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="45" cy="58" r="7" fill="#E8730A"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 172" width="190" height="172">
+  <title>ACM-Groupe — Logo couleur vertical</title>
+  <desc>Logo ACM-Groupe, version verticale centree, pour en-tetes et couvertures</desc>
+  <defs>
+    <mask id="ring">
+      <ellipse cx="95" cy="43" rx="35" ry="40" fill="white"/>
+      <ellipse cx="95" cy="43" rx="22" ry="27" fill="black"/>
+      <rect x="56" y="31" width="30" height="24" fill="black"/>
+    </mask>
+  </defs>
+  <line x1="95" y1="0" x2="95" y2="86" stroke="#E8730A" stroke-width="6" stroke-linecap="round"/>
+  <rect x="56" y="0" width="78" height="86" mask="url(#ring)" fill="#1A2B4A"/>
+  <rect x="57" y="33" width="6" height="20" rx="3" fill="#E8730A"/>
+  <path d="M58,33 C55,39 55,53 58,57" fill="none" stroke="#E8730A" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="95" cy="43" r="6" fill="#E8730A"/>
+  <!-- ACM centered -->
+  <text x="95" y="128" text-anchor="middle" font-family="'Arial Black',Arial,Impact,sans-serif" font-size="40" font-weight="900" letter-spacing="4" fill="#1A2B4A">ACM</text>
+  <!-- Separator -->
+  <line x1="20" y1="136" x2="170" y2="136" stroke="#E8730A" stroke-width="1.5"/>
+  <!-- GROUPE -->
+  <text x="95" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="9" fill="#E8730A">GROUPE</text>
+  <!-- Tagline -->
+  <text x="95" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8.5" letter-spacing="1.5" fill="#888888">Travaux sur cordes · Prevention des risques</text>
+</svg>
